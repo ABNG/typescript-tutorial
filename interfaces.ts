@@ -41,3 +41,10 @@ class Payment implements  FirstPerson{
         return "";
     }
 }
+
+enum User{
+OPEN= "OPEN",
+    CLOSED = "CLOSED",
+    UP = "UP",
+    DOWN = "DOWN"
+}
