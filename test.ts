@@ -63,6 +63,10 @@ let topUser: [string,number,boolean]=["k",20,true];
 // topUser[0]=false;//types are fixed it gives error
 topUser[0]="l";//allowed because same type
 
+//Touple Array
+let topUser: [string,number,boolean][]=[["k",20,true],["k",20,false]];
+topUser[0]=["k",50,true];//allowed because same type
+topUser[0][0]="M";//allowed because same type
 
 
 //OBJECTS
