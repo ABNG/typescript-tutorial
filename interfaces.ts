@@ -1,5 +1,5 @@
 interface FirstPerson{
-    name: string,
+    name: string, // readonly name: string,  readonly can also use in interface
     email: string,
     password?:string, //make it optional
     speak(name: string): void,
