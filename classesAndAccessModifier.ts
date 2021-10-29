@@ -1,6 +1,6 @@
 /*
 access modifiers
-public, private, readonly
+public, private, protected, readonly
  */
 
 export class Invoice{
