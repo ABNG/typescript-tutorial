@@ -60,7 +60,7 @@ users[0]=false; //allowed in array
 
 //Touple
 let topUser: [string,number,boolean]=["k",20,true];
-// topUser[0]=false;//types are fixed ig gives error
+// topUser[0]=false;//types are fixed it gives error
 topUser[0]="l";//allowed because same type
 
 
