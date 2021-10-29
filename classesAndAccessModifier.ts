@@ -5,7 +5,7 @@ public, private, protected, readonly
 
 export class Invoice{
     // readonly client: string; // we only read this property we cannot update it only set through constructor
-    // private amount: number; //we cannot access outside the class at line 23
+    // private amount: number; //we cannot access outside the class at line 27
     // protected details: string; //Protected members can be accessed only within the class and by the instance of its sub/child class
     //  static aged: number;
     // constructor(c:string,a:number,d:string) {
