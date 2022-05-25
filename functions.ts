@@ -11,3 +11,5 @@ const greeting2:Function=(a:number,b:number,c?:myNumber): number  => c > 0 ? a *
 
 greeting(10,20,20);
 console.log(greeting2(10,20,20));
+
+export const google: Function= (): string => "hello";
