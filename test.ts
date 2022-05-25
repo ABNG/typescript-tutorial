@@ -101,3 +101,4 @@ console.log(InvoiceOne);
 
 console.log(google());
 
+//watch this part only 'debug typescript file'.   https://youtu.be/d56mG7DezGs?t=1044
