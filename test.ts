@@ -1,5 +1,7 @@
 import {Invoice} from './classesAndAccessModifier';
 import {google} from './functions';
+//or  import {google as g} from './functions'
+//or  import * as g from './functions'  //then access like that:  g.google()
 
 let my_name:string="ABu Bakar";
 let age:number=55;
