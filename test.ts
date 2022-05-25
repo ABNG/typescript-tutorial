@@ -91,3 +91,8 @@ console.log(newUser);
 
 const InvoiceOne= new Invoice("google",500,"dsjfksd fks");
 console.log(InvoiceOne);
+
+// type quantity=100| 200;
+
+// let myQuantity: quantity = 200;  //myQuantity can only be 100 or 200. no other value acceptable.
+
